@@ -1,5 +1,8 @@
 
-## Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<p align="center">
+<a href="https://github.com/AHuzail"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Huzail;Nice+to+meet+you!" alt="Typing SVG" /></a>
+</p>
+
 <!--
 **AHuzail/AHuzail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
