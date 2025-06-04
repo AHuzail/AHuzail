@@ -7,7 +7,6 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **AI/ML and Data Science projects**
-- 🌱 I'm currently learning **Advanced Deep Learning and Computer Vision techniques**
 - 👯 I'm looking to collaborate on **Machine Learning, Computer Vision, and NLP projects**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, and Data Science**
 - 🎯 Focus areas: **Computer Vision, Natural Language Processing, and Intelligent Systems**
@@ -65,41 +64,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHuzail&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🧠 AI/ML Focus Areas
-
-<div align="center">
-
-| 🤖 Machine Learning | 🧠 Deep Learning | 👁️ Computer Vision | 📝 NLP |
-|:---:|:---:|:---:|:---:|
-| Supervised Learning | Neural Networks | Image Classification | Text Processing |
-| Unsupervised Learning | CNNs & RNNs | Object Detection | Sentiment Analysis |
-| Ensemble Methods | Transfer Learning | Image Segmentation | Language Models |
-| Model Optimization | Hyperparameter Tuning | Feature Extraction | Text Generation |
-
-</div>
-
-## 🏆 Featured Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHuzail&repo=ml-project-1&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/AHuzail)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHuzail&repo=cv-project-2&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/AHuzail)
-
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AHuzail&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
-
-## 🎯 Currently Learning
-
-- 🔍 Advanced Computer Vision techniques
-- 🗣️ Large Language Models (LLMs)
-- 🚀 MLOps and Model Deployment
-- 📊 Advanced Data Visualization
-- ⚡ Model Optimization and Acceleration
 
 ## 🤝 Connect with Me
 
@@ -112,11 +81,6 @@
 
 </div>
 
-## 💡 AI Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random AI Quote"/>
-</div>
 
 ## 📊 Coding Activity
 
