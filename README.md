@@ -87,7 +87,4 @@
   **"The best way to predict the future is to create it with AI."** 🤖
   
   <br>
-  
-  **Thanks for visiting! Let's build the future together! 🚀**
-  
 </div>
