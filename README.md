@@ -1,17 +1,12 @@
-# Hi there, I'm AHuzail! 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;AI%2FML+%26+Data+Science+Enthusiast;Building+intelligent+solutions;Always+learning+something+new" alt="Typing SVG" />
-</div>
+# Hi there, I'm Huzail! 👋
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **AI/ML and Data Science projects**
+- 🔭 I'm currently working on **AI/ML projects**
 - 👯 I'm looking to collaborate on **Machine Learning, Computer Vision, and NLP projects**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, and Data Science**
 - 🎯 Focus areas: **Computer Vision, Natural Language Processing, and Intelligent Systems**
-- ⚡ Fun fact: **I love turning data into actionable insights and building AI that makes a difference!**
-
+  
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -53,21 +48,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHuzail&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHuzail&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=AHuzail&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AHuzail&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHuzail&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AHuzail&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AHuzail&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ## 🤝 Connect with Me
