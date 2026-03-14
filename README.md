@@ -15,8 +15,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AHuzail&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHuzail&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AHuzail&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
 </div>
 
 ## 🤝 Connect with Me
